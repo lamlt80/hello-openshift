@@ -3,4 +3,4 @@ spring:
     name: hello-openshift
 
 server:
-  port: 8889
+  port: 8080
