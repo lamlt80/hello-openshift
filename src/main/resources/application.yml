@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hello-openshift
+
+server:
+  port: 8889
